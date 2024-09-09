@@ -33,3 +33,4 @@ private:
 //}
 
 #endif // __INTRODUCTION_HPP__
+//Вторая редакция файла
