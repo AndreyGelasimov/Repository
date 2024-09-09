@@ -3,7 +3,7 @@
  * @date 2021-09-04
  * @author Anonymous
  */
-
+ //Первая редакция файла
 #ifndef __INTRODUCTION_HPP__
 #define __INTRODUCTION_HPP__
 
